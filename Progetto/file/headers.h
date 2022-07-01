@@ -1,0 +1,12 @@
+#include "campionato.h"
+#include "gara.h"
+#include "partita.h"
+#include "partite.h"
+#include "pilota.h"
+#include "piloti.h"
+#include "schedinacalcio.h"
+#include "schedinaf1.h"
+#include <stdio.h>
+#include <string.h>
+#include <time.h>
+#include <stdlib.h>
